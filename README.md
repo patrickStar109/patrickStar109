@@ -5,9 +5,7 @@ My site: https://cutt.ly/qHfWDqH
 <br>
 - Owner of "The Darkweb"
 <br>
-- Founder of "Blue Eye Productions"
-<br>
-- Playmanity developer
+- Founder of "Blue Eye" & "NoFace Games"
 <br>
 <br>
 Discord: Melon#4880
