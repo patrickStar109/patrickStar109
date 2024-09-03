@@ -4,8 +4,8 @@ Hey there! I'm **Melon**, a UI designer, web developer, and software engineer. H
 
 ## Featured Projects
 
-### [Sims 4 DLC Unlocker](https://dlcunlocker.000webhostapp.com/index.html)
-Explore one of my most popular projects. Check it out to see what all the buzz is about!
+Explore one of my most popular projects. Check it out to see what all the buzz is about! 
+*Pinned*
 
 ## Software
 
